@@ -1,6 +1,6 @@
-### Hi there, I'm Taeeun
+## Hi there, I'm Taeeun
 
-## I'm a iOS Developer
+### I'm an iOS Developer
 
 - I just launched my first course: [Monthly Wallet][monthlywallet]!
 - Swift
@@ -9,11 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="portfolio" width="22px" src="icon/portrait-solid.svg" />][portfolio]
+[<img align="left" alt="stackoverflow" width="22px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
+[<img align="left" alt="medium" width="22px" src="icon/medium-brands.svg" />][medium]
 
 <br />
 
@@ -51,6 +49,9 @@
 ---
 
 [monthlywallet]: github.com
+[portfolio]: https://taeeun-kim.github.io/Portfolio/
+[stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
+[medium]: https://taeeun-kim.medium.com
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
@@ -60,3 +61,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<!-- https://fontawesome.com/license -->

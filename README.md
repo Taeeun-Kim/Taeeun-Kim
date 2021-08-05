@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="24px" src="icon/user-circle-solid.svg" />][portfolio]
-[<img align="left" alt="stackoverflow" width="22px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
+[<img align="left" alt="portfolio" width="26px" src="icon/user-circle-solid.svg" />][portfolio]
+[<img align="left" alt="stackoverflow" width="21px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
 [<img align="left" alt="medium" width="24px" src="icon/medium-brands.svg" />][medium]
 
 <br />

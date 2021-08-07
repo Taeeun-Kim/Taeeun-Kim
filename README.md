@@ -2,11 +2,10 @@
 
 ### I'm an iOS Developer
 
-<!-- - I just launched my first app: [Monthly Wallet][monthlywallet]! -->
-
 - Swift
 - SwiftUI
 - UIKit
+- Combine
 - CoreData
 - Firebase
 
@@ -27,6 +26,7 @@
 <img align="left" alt="Swift" width="26px" src="icon/javascript-original.svg"/>
 <img align="left" alt="Swift" width="26px" src="icon/npm-original-wordmark.svg"/>
 <img align="left" alt="Swift" width="26px" src="icon/c-original.svg"/>
+<img align="left" alt="Swift" width="26px" src="icon/java-original.svg"/>
 <img align="left" alt="Swift" width="26px" src="icon/git-original.svg"/>
 <img align="left" alt="Swift" width="26px" src="icon/gitlab-original.svg"/>
 <img align="left" alt="Swift" width="26px" src="icon/jenkins-original.svg"/>
@@ -51,14 +51,5 @@
 [portfolio]: https://taeeun-kim.github.io/Portfolio/
 [stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
 [medium]: https://taeeun-kim.medium.com
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <!-- https://fontawesome.com/license -->

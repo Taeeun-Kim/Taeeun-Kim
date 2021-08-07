@@ -21,18 +21,18 @@
 ### Languages and Tools
 
 <img align="left" alt="Swift" width="26px" src="icon/swift-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/firebase-plain.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/html5-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/css3-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/javascript-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/npm-original-wordmark.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/c-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/java-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/git-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/gitlab-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/jenkins-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/slack-original.svg"/>
-<img align="left" alt="Swift" width="26px" src="icon/vscode-original.svg"/>
+<img align="left" alt="firebase" width="26px" src="icon/firebase-plain.svg"/>
+<img align="left" alt="html5" width="26px" src="icon/html5-original.svg"/>
+<img align="left" alt="css3" width="26px" src="icon/css3-original.svg"/>
+<img align="left" alt="javascript" width="26px" src="icon/javascript-original.svg"/>
+<img align="left" alt="npm" width="26px" src="icon/npm-original-wordmark.svg"/>
+<img align="left" alt="c" width="26px" src="icon/c-original.svg"/>
+<img align="left" alt="java" width="26px" src="icon/java-original.svg"/>
+<img align="left" alt="git" width="26px" src="icon/git-original.svg"/>
+<img align="left" alt="gitlab" width="26px" src="icon/gitlab-original.svg"/>
+<img align="left" alt="jenkins" width="26px" src="icon/jenkins-original.svg"/>
+<img align="left" alt="slack" width="26px" src="icon/slack-original.svg"/>
+<img align="left" alt="vscode" width="26px" src="icon/vscode-original.svg"/>
 
 <br />
 <br />

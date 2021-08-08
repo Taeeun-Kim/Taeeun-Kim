@@ -28,6 +28,7 @@
 <img align="left" alt="npm" width="26px" src="icon/npm-original-wordmark.svg"/>
 <img align="left" alt="c" width="26px" src="icon/c-original.svg"/>
 <img align="left" alt="java" width="26px" src="icon/java-original.svg"/>
+<img align="left" alt="java" width="26px" src="icon/arduino-original.svg"/>
 <img align="left" alt="git" width="26px" src="icon/git-original.svg"/>
 <img align="left" alt="gitlab" width="26px" src="icon/gitlab-original.svg"/>
 <img align="left" alt="jenkins" width="26px" src="icon/jenkins-original.svg"/>

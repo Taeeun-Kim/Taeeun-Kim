@@ -13,8 +13,8 @@
 
 [<img align="left" alt="portfolio" width="24px" src="icon/user-solid.svg" />][portfolio]
 [<img align="left" alt="stackoverflow" width="22px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
-[<img align="left" alt="linkedin" width="24px" src="icon/linkedin-in-brands.svg" />][linkedin]
-[<img align="left" alt="medium" width="24px" src="icon/medium-brands.svg" />][medium]
+[<img align="left" alt="linkedin" width="26px" src="icon/linkedin-in-brands.svg" />][linkedin]
+[<img align="left" alt="medium" width="26px" src="icon/medium-brands.svg" />][medium]
 
 <br />
 <br />

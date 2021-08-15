@@ -11,8 +11,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="portfolio" width="26px" src="icon/user-circle-solid.svg" />][portfolio]
-[<img align="left" alt="stackoverflow" width="21px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
+[<img align="left" alt="portfolio" width="24px" src="icon/user-solid.svg" />][portfolio]
+[<img align="left" alt="stackoverflow" width="22px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
+[<img align="left" alt="linkedin" width="24px" src="icon/linkedin-in-brands.svg" />][linkedin]
 [<img align="left" alt="medium" width="24px" src="icon/medium-brands.svg" />][medium]
 
 <br />
@@ -48,6 +49,7 @@
 [monthlywallet]: github.com
 [portfolio]: https://taeeun-kim.github.io/Portfolio/
 [stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
+[linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
 [medium]: https://taeeun-kim.medium.com
 
 <!-- https://fontawesome.com/license -->

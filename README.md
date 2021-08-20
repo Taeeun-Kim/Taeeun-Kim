@@ -41,14 +41,9 @@
 
 ### Latest Blog Posts
 
+- [Review: iPhone app development — Monthly Wallet](https://taeeun-kim.medium.com/review-iphone-app-development-monthly-wallet-7f34d9f524ef)
 - [How to create 3D models with Object Capture](https://taeeun-kim.medium.com/how-to-create-3d-models-with-object-capture-9b3d1226bd10)
 - [The future of the Web Application with Windows 11](https://taeeun-kim.medium.com/the-future-of-the-web-application-with-windows-11-8ab88a2d16be)
-
-[monthlywallet]: https://apps.apple.com/app/monthly-wallet/id1580920572
-[portfolio]: https://taeeun-kim.github.io/Portfolio/
-[stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
-[linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
-[medium]: https://taeeun-kim.medium.com
 
 ### Launched App
 
@@ -57,5 +52,11 @@
   Keep track of your monthly recurring expenses with this beautifully designed minimalistic app
 
   [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][monthlywallet]
+
+[portfolio]: https://taeeun-kim.github.io/Portfolio/
+[stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
+[linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
+[medium]: https://taeeun-kim.medium.com
+[monthlywallet]: https://apps.apple.com/app/monthly-wallet/id1580920572
 
 <!-- https://fontawesome.com/license -->

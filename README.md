@@ -52,10 +52,10 @@
 
 ### Launched App
 
-- ##### Monthly Wallet
+- <h5>Monthly Wallet</h5>
 
-  Clearly visible with less work.
-  It’s a list of what you have subscribed to.
+  <p>Clearly visible with less work.
+  It’s a list of what you have subscribed to. </p>
 
   [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][monthlywallet]
 

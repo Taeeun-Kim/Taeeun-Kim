@@ -52,7 +52,7 @@
 
 ### Launched App
 
-- #### Monthly Wallet
+- ### Monthly Wallet
 
   Keep track of your monthly recurring expenses with this beautifully designed minimalistic app
 

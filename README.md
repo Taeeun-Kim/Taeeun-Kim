@@ -57,6 +57,6 @@
 [stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
 [linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
 [medium]: https://taeeun-kim.medium.com
-[monthlywallet]: https://apps.apple.com/app/monthly-wallet/id1580920572
+[monthlywallet]: https://apps.apple.com/de/app/monthly-wallet/id1580920572
 
 <!-- https://fontawesome.com/license -->

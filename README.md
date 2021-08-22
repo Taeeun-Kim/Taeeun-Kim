@@ -43,7 +43,6 @@
 
 - [Review: iPhone app development — Monthly Wallet](https://taeeun-kim.medium.com/review-iphone-app-development-monthly-wallet-7f34d9f524ef)
 - [How to create 3D models with Object Capture](https://taeeun-kim.medium.com/how-to-create-3d-models-with-object-capture-9b3d1226bd10)
-- [The future of the Web Application with Windows 11](https://taeeun-kim.medium.com/the-future-of-the-web-application-with-windows-11-8ab88a2d16be)
 
 ### Launched App
 

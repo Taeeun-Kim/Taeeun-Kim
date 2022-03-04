@@ -9,6 +9,8 @@
 - CoreData
 - CoreBluetooth
 - MVVM
+- REST API
+- Xcode
 - Azure CI/CD
 - SonarCloud
 - Firebase

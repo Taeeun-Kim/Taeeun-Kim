@@ -7,6 +7,8 @@
 - UIKit
 - Combine
 - CoreData
+- CoreBluetooth
+- Azure CI/CD
 - Firebase
 
 ### Connect with me

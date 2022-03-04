@@ -8,6 +8,7 @@
 - Combine
 - CoreData
 - CoreBluetooth
+- MVVM
 - Azure CI/CD
 - SonarCloud
 - Firebase

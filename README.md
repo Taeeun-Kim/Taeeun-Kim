@@ -40,7 +40,7 @@
 
 - ### Wash Timer
 
-This is simple. Plan wash time easily! No more time calculation for wash time
+  This is simple. Plan wash time easily! No more time calculation for wash time
 
   [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][washTimer]
 

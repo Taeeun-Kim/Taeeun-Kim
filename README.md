@@ -36,12 +36,19 @@
 
   Keep track of your monthly recurring expenses with this beautifully designed minimalistic app
 
-  [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][monthlywallet]
+  [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][monthlyWallet]
+
+- ### Wash Timer
+
+This is simple. Plan wash time easily! No more time calculation for wash time
+
+  [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][washTimer]
 
 [portfolio]: https://taeeun-kim.github.io/Portfolio/
 [stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
 [linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
 [medium]: https://taeeun-kim.medium.com
-[monthlywallet]: https://apps.apple.com/de/app/monthly-wallet/id1580920572
+[monthlyWallet]: https://apps.apple.com/de/app/monthly-wallet/id1580920572
+[washTimer]: https://apps.apple.com/app/wash-timer/id1627288865
 
 <!-- https://fontawesome.com/license -->

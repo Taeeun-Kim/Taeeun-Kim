@@ -2,19 +2,6 @@
 
 ### I'm an iOS Developer
 
-- Swift
-- SwiftUI
-- UIKit
-- Combine
-- CoreData
-- CoreBluetooth
-- MVVM
-- REST API
-- Xcode
-- Azure CI/CD
-- SonarCloud
-- Firebase
-
 ### Connect with me
 
 [<img align="left" alt="portfolio" width="24px" src="icon/user-solid.svg" />][portfolio]

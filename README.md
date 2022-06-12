@@ -1,7 +1,6 @@
 ## Hi there, I'm Taeeun
 
 ### I'm an iOS Developer
-
 ### Connect with me
 
 [<img align="left" alt="portfolio" width="24px" src="icon/user-solid.svg" />][portfolio]

@@ -3,7 +3,6 @@
 #### I'm an iOS Developer
 ### Connect with me
 
-[<img align="left" alt="portfolio" width="24px" src="icon/user-solid.svg" />][portfolio]
 [<img align="left" alt="stackoverflow" width="22px" src="icon/stack-overflow-brands.svg" />][stackoverflow]
 [<img align="left" alt="linkedin" width="26px" src="icon/linkedin-in-brands.svg" />][linkedin]
 [<img align="left" alt="medium" width="27px" src="icon/medium-brands.svg" />][medium]
@@ -30,7 +29,6 @@
 
   [<img alt="Swift" width="150" src="icon/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" style="border-radius: 3px; margin-top: 15px;"/>][washTimer]
 
-[portfolio]: https://taeeun-kim.github.io/Portfolio/
 [stackoverflow]: https://stackoverflow.com/users/15603993/taeeun-kim
 [linkedin]: https://www.linkedin.com/in/taeeun-kim-a468b0219/
 [medium]: https://taeeun-kim.medium.com
